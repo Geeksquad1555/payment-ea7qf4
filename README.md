@@ -1,8 +1,10 @@
 09.16.2026
 
-<!-- notify 1/2 · CKUHZrEM -->
-## Notification 1/2
-Round: Round 1
-To: morales.irenerose87@yahoo.com, morales.jacqueline51@yahoo.com
-At: 2026-09-16 17:41:28
-Id: CKUHZrEM
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: morales.ricki@yahoo.com, morales182113@yahoo.com
+At: 2026-09-16 17:41:37
+Id: ROrUz7Jt
